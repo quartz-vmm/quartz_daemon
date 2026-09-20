@@ -1,0 +1,20 @@
+name: quartz_daemon
+description: Daemon application for managing macOS VMs.
+
+publish_to: none
+homepage: https://softyes.com.br
+repository: https://github.com/quartz-vmm/daemon
+issue_tracker: https://github.com/quartz-vmm/daemon/issues
+
+version: 0.1.0
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  test: ^1.25.6
+  lints: ^6.0.0
+  very_good_analysis: ^11.0.0
