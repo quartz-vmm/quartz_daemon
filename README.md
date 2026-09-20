@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/github/license/quartz-vmm/daemon?style=plastic&color=blue)
 ![Contributing](https://img.shields.io/badge/contributing-Closed-blue?style=plastic)
 
-Daemon application for managing macOS VMs.
+Daemon app for managing VMs running macOS as a guest.
 
 ## 🚀 Features
 
